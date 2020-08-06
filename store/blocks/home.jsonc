@@ -6,7 +6,8 @@
       "flex-layout.row",
       "shelf",
       "slider-layout#home",
-      "responsive-layout"
+      "responsive-layout.desktop#desktop",
+      "responsive-layout.mobile#mobile"
     ]
   },
 
@@ -110,16 +111,16 @@
   "rich-text#desktop": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
+      "textPosition": "center",
+      "textAlignment": "center"
     }
   },
   
   "rich-text#mobile": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
+      "textPosition": "center",
+      "textAlignment": "center"
     }
   }
 }
