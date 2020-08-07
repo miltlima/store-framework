@@ -1,7 +1,18 @@
 {
   "store.search": {
     "blocks": [
-      "search-result-layout",
+      "search-result-layout"
+    ]
+  },
+
+  "search-result-layout": {
+    "blocks": [
+      "search-result-layout.desktop"  
+    ]
+  },
+
+  "search-result-layout.desktop": {
+    "blocks": [
       "breadcrumb.search",
       "search-title.v2",
       "total-products.v2",
@@ -10,12 +21,6 @@
       "search-content",
       "filter-navigator.v3",
       "search-fetch-more"
-    ]
-  },
-  "search-result-layout": {
-    "blocks": [
-      "search-result-layout.desktop"
-      
     ]
   }
 }
