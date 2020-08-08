@@ -48,6 +48,17 @@
             "fullWidth": false
         }
     },
+    "minicart": {
+        "props": {
+
+        }
+    },
+
+    "header-spacer": {
+        "props": {
+
+        }
+    },
 
     "header-row#main-mobile": {
         "children": [
