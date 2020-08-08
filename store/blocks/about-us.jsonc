@@ -23,10 +23,9 @@
     "tab-list.item#home1": {
         "props": {
             "tabId": "majorAppliances",
-            "label": "Major Appliances",
+            "label": "About",
             "defaultActivetab": true,
-            "callToActionMode": "button",
-            "callToActionText": "About"
+            "callToActionMode": "button"
         }
     },
     "tab-list.item#home2": {
