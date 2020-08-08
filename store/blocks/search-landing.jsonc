@@ -1,0 +1,26 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner",
+            "search-result-layout.customQuery"
+        ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "src":"https://storecomponents.vteximg.com.br/arquivos/box.png",
+            "minWidth": "100%"
+        }
+    },
+
+    "search-result-layout.customQuery": {
+        "props":{
+            "maxItemsPerPage": "8",
+            "hideUnavailableItems": true,
+            "orderByField": "OrderByReleaseDateDESC",
+            
+        }
+
+    }
+
+
+}
