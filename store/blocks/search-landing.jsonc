@@ -16,8 +16,8 @@
         "props":{
             "maxItemsPerPage": "8",
             "hideUnavailableItems": true,
-            "orderByField": "OrderByReleaseDateDESC",
-            
+            "orderByField": "OrderByReleaseDateDESC"
+
         }
 
     }
