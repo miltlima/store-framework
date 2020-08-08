@@ -39,13 +39,14 @@
         "children": [
             "logo",
             "header-spacer",
+            "search-bar",
             "minicart",
             "login"
         ],
         "props": {
             "inverted": true,
             "sticky": true,
-            "fullWidth": false
+            "fullWidth": true
         }
     },
     "minicart": {
